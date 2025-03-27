@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mohammed Salman Alkhumayri
 
-<!--
-**Mohammed-Alkhumayri/Mohammed-Alkhumayri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI student at IAU | Focused on Natural Language Processing, Machine Learning, Deep Learning, and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 [Amazon Sentiment Analysis](https://github.com/Mohammed-Alkhumayri/amazon-sentiment-analysis)
+Classifies Amazon smartphone reviews using TextBlob and visualizes customer sentiment.
+
+### 📈 [Stock Price Prediction with LSTM](https://github.com/Mohammed-Alkhumayri/stock-price-prediction-lstm)
+Uses LSTM networks to forecast Saudi stock trends based on real financial data.
+
+---
+
+📫 Contact: 7moood76business@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-alkhumayri)
+
