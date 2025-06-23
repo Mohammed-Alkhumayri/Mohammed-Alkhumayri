@@ -1,8 +1,12 @@
 # Mohammed Salman Alkhumayri
 
-🎓 AI student at IAU | Focused on Natural Language Processing, Machine Learning, Deep Learning, and solving real-world problems.
+🎓 AI Graduate from Imam Abdulrahman Bin Faisal University (IAU)  
+💡 Specializing in Natural Language Processing, Deep Learning, and AI for real-world applications
 
 ## 🔧 Projects
+
+### 🤖 [GPT-2 Fine-Tuning on OpenWebText](https://github.com/Mohammed-Alkhumayri/gpt2-finetuning-openwebtext)
+Fine-tunes GPT-2 on a custom OpenWebText subset with HuggingFace’s Trainer API, achieving lower perplexity and improved generation quality.
 
 ### 💬 [Amazon Sentiment Analysis](https://github.com/Mohammed-Alkhumayri/amazon-sentiment-analysis)
 Classifies Amazon smartphone reviews using TextBlob and visualizes customer sentiment.
